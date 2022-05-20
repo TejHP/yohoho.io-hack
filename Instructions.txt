@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Yohoho.io Updating Hack. Original Source From Adam B.
+// @name          Updating Hack. Original Source From Adam B.
 // @namespace    http://yohoho.io/
 // @version      1.1.4
 // @description  Hack yohoho.io | Choose any island. Press: I | Choose any skin(1-35). Press: P | Give Yourself As Many Coins At Will. Press: O | (NEW) Choose any pet. Press: Z
